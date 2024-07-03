@@ -1,0 +1,27 @@
+{
+  "name": "prove-yourself-lingsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "https://github.com/M5h9med-Hi4h6m",
+  "license": "ISC",
+  "dependencies": {
+    "autokill": "^2.0.3",
+    "body-parser": "^1.20.0",
+    "discord-oauth2": "^2.11.0",
+    "discord.js": "^13.10.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "node-fetch": "^3.3.2",
+    "passport": "^0.6.0",
+    "passport-discord": "^0.1.4",
+    "passport-oauth2-refresh": "^2.1.0",
+    "path": "^0.12.7",
+    "st.db": "^4.0.7"
+  }
+}
